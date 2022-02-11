@@ -47,14 +47,14 @@ export default function LandingContent() {
                 color="#0A152C"
                 fontSize="28px"
               >
-                of this community
+                for this community
               </Heading>
             </HStack>
 
             <Text color="#4C5467" fontSize={"14px"} paddingTop="35px">
-              Cast a vote for your favorite proposal once a week.
+              Pick your favorite proposals with one vote per NFT. Every Monday,
               <br />
-              We deploy the most popular idea every Monday!
+              we launch the most hyped idea and your voting power resets.
             </Text>
           </Box>{" "}
         </GridItem>
