@@ -35,7 +35,6 @@ const WalletConnector = () => {
   const userAccount =  localStorage.getItem('accountId');
 
     const json = JSON.stringify({
-        // address: account
         address: userAccount
     });
     
