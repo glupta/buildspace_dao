@@ -54,7 +54,7 @@ export default function LandingContent() {
             <Text color="#4C5467" fontSize={"14px"} paddingTop="35px">
               Pick your favorite proposals with one vote per NFT. Every Monday,
               <br />
-              we launch the most hyped idea and your voting power resets.
+              we launch the most hype idea and reset your voting power.
             </Text>
           </Box>{" "}
         </GridItem>
